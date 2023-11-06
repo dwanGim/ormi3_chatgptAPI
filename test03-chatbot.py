@@ -3,7 +3,7 @@
 import openai
 
 # 각자 OPENAI API KEY 지정 : 이 파일은 버전 관리에는 절대 넣지 마세요.
-openai.api_key = "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"
+openai.api_key = ""
 
 # API KEY 설정에 오류가 있는 지 확인하기 위함
 print("api_key :", repr(openai.api_key))
